@@ -20,6 +20,8 @@ function draw() {
 
   textSize(100);
  text("Aim practice",700,300)
+  textsize(50);
+ text("click on the grey squares",700, 500)
 
  mouse.x=World.mouseX;
  mouse.y=World.mouseY;
